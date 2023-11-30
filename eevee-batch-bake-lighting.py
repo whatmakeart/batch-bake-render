@@ -6,7 +6,7 @@ bl_info = {
     "author": "Jimmy Kuehnle",
     "description": "Batch Batch Bake indirect lighting for each frame in Eevee and Batch Render. Adds menu item to Render to start and stop batch baked lighting rendering.",
     "warning": "Can be unstable, make sure to backup Blender projects before using.",
-    "wiki_url": "https://whatmakeart.com/",
+    "wiki_url": "https://github.com/whatmakeart/eevee-batch-bake-lighting",
     "category": "Render"
 }
 
