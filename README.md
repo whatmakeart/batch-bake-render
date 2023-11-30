@@ -3,11 +3,7 @@ Eevee Batch Bake Lighting indirect lighting for each frame in Eevee and Batch Re
 
 ## Update and Bake Indirect Lighting in Every Frame in Eevee for Animation
 
-This works for simple setup where the cost of baking every frame in Eevee is still faster than rendering in Cycles.
-
-# README for Eevee Batch Bake Lighting Add-on
-
-This README provides detailed information about the Eevee Batch Bake Lighting Add-on for Blender. This add-on enables users to batch rebake indirect lighting for each frame in Eevee and execute batch rendering.
+This works for simple setup where the cost of baking every frame in Eevee is still faster than rendering in Cycles. This add-on enables users to batch rebake indirect lighting for each frame in Eevee and execute batch rendering.
 
 ## Installation
 
