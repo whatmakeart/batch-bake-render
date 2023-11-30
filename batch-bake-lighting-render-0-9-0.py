@@ -1,5 +1,5 @@
 bl_info = {
-    "name": "Batch Bake Lighting for Eevee Render",
+    "name": "Eevee Batch Bake Lighting",
     "blender": (2, 80, 0),
     "category": "Render",
     "version": (0, 9, 0),
